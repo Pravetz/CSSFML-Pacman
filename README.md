@@ -3,7 +3,7 @@ My relatively old course project, written in C# in MonoDevelop using SFML.Net on
 
 Project has it's own graphics(made in GIMP) and sounds(made in LMMS) inspired by original game from the 80s.
 
-It is very modification-friedly, as all in-game entities, animations and sounds are defined in config files(can be found in `assets` folder in bin/Debug) in home-grown esoteric configuration language, you can read more in `Modification` related sections.
+It is very modification-friendly, as all in-game entities, animations and sounds are defined in config files(can be found in `assets` folder in `bin/Debug`) in home-grown esoteric configuration language, you can read more in `Modification` related sections.
 
 ## Modification: Game's filesystem
 Game assets such as character appearances, sounds, animations, maps and etc. can be modified without needing to edit game's source code.
